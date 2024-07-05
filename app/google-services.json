@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831386922169",
+    "project_id": "kiddoz-fun-quiz-app",
+    "storage_bucket": "kiddoz-fun-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831386922169:android:7a1cb71babee1e29653f68",
+        "android_client_info": {
+          "package_name": "com.example.kiddozfunquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAIHH0gkSP1tdBGbGog9NyE8lC3nxz_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
